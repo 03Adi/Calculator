@@ -1,3 +1,3 @@
 # Calculator
 
-** Tech Stack 
+"* * *"
