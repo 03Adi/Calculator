@@ -1,4 +1,4 @@
-# Calculator Project
+# Calculator 
 
 A simple yet functional calculator built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates fundamental web development skills, including user interaction, styling, and functionality.
 
