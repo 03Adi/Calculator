@@ -30,3 +30,8 @@ Follow these steps to set up and run the calculator on your local machine:
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/03Adi/calculator-project.git
+2. Navigate to the Project Folder
+   ```bash
+   cd calculator-project
+3. Open the Project
+- Open index.html in your browser to use the calculator   
