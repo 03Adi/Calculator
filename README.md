@@ -34,4 +34,15 @@ Follow these steps to set up and run the calculator on your local machine:
    ```bash
    cd calculator-project
 3. Open the Project
-- Open index.html in your browser to use the calculator   
+ - Open index.html in your browser to use the calculator
+
+🛠️ Project Structure
+   ```bash
+   calculator-project/
+│
+├── index.html         # The main HTML file
+├── style.css          # Styling for the calculator
+├── script.js          # JavaScript logic
+└── README.md          # Project documentation (this file)
+
+
