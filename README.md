@@ -38,7 +38,7 @@ Follow these steps to set up and run the calculator on your local machine:
 
 🛠️ Project Structure
    ```bash
-    calculator-project/
+   calculator-project/
    │
    ├── index.html         # The main HTML file
    ├── style.css          # Styling for the calculator
