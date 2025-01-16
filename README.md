@@ -38,13 +38,10 @@ Follow these steps to set up and run the calculator on your local machine:
 
 🛠️ Project Structure
    ```bash
-   calculator-project/
+    calculator-project/
    │
    ├── index.html         # The main HTML file
    ├── style.css          # Styling for the calculator
    ├── script.js          # JavaScript logic
-   └── README.md          # Project documentation (this file)
+   └── README.md          # Project documentation (this file).
 
-📂 Code Highlights
-HTML (index.html)
-The base structure of the calculator using semantic HTML elements. Buttons represent digits and operators.
