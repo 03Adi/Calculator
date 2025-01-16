@@ -17,13 +17,6 @@ A simple yet functional calculator built using **HTML**, **CSS**, and **JavaScri
 
 ---
 
-## 🖼️ Screenshots
-
-![Calculator Screenshot](screenshot.png)  
-> *Screenshot of the calculator in action.*
-
----
-
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the calculator on your local machine:
