@@ -44,4 +44,3 @@ Follow these steps to set up and run the calculator on your local machine:
    ├── style.css          # Styling for the calculator
    ├── script.js          # JavaScript logic
    └── README.md          # Project documentation (this file)
- 
