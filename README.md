@@ -4,7 +4,7 @@ A simple yet functional calculator built using **HTML**, **CSS**, and **JavaScri
 
 ---
 
-## 🔧 Features 
+## 🔧 Features
 
 - Perform basic arithmetic operations:  
   - Addition (+)  
